@@ -15,7 +15,7 @@ if (dev) {
   };
 }
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3500;
 app.prepare().then(async () => {
   createServer(httpsOptions, (req, res) => {
     const parsedUrl = parse(req.url, true);
