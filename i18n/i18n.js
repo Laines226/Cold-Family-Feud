@@ -33,5 +33,5 @@ i18n
     interpolation: {
       format,
     },
-    whitelist: ["es", "en", "id"],
+    whitelist: ["es", "en", "id", "de"],
   });

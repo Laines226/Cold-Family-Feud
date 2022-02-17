@@ -1,5 +1,7 @@
 {
-  "Title Music": "Titel Musikc",
+  "part two": "Teil 2",
+  "register": "Registrieren",
+  "Title Music": "Titel Musik",
   "team": "Team",
   "number": "Nummer",
   "Gets Points": "bekommt Punkte",
@@ -13,6 +15,7 @@
   "round": "Runde",
   "Open Game Window": "Öffne Spielfenster",
   "Create New Game": "Erstelle neues Spiel",
+  "randomName": "Maximilian Mustermann",
   "Quit": "Beenden",
   "Load Game": "Lade Spiel",
   "Title Text": "Title Text",
