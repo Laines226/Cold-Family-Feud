@@ -5,6 +5,7 @@ import format from "./i18n-format.js";
 import translationEN from "../public/locales/en/translation.json";
 import translationES from "../public/locales/es/translation.json";
 import translationID from "../public/locales/id/translation.json";
+import translationDE from "../public/locales/de/translation.json";
 
 const resources = {
   en: {
@@ -16,6 +17,9 @@ const resources = {
   id: {
     translation: translationID,
   },
+  de: {
+    translation: translationDE,
+  }
 };
 i18n
   .use(LanguageDetector)
