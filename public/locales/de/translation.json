@@ -3,7 +3,7 @@
   "register": "Registrieren",
   "Title Music": "Titel Musik",
   "team": "Team",
-  "number": "Nummer",
+  "number": "{{count, number}}",
   "Gets Points": "bekommt Punkte",
   "mistake": "Fehler",
   "Answer": "Antwort",
